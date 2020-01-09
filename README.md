@@ -50,3 +50,6 @@ The app skeleton uses a subset of [Foundation](http://foundation.zurb.com/) (v5)
 framework by default. You can, however, replace it with any other library or
 custom styles.
 # Crud-Cake-PHP-User-Registration-and-Login
+![1](https://user-images.githubusercontent.com/29045747/72042022-614cc500-32d7-11ea-8c8f-613e2bb2cf23.PNG)
+![2](https://user-images.githubusercontent.com/29045747/72042026-63168880-32d7-11ea-9388-9bdef488f242.PNG)
+![3](https://user-images.githubusercontent.com/29045747/72042029-6447b580-32d7-11ea-8cb2-e148d4080a67.PNG)
