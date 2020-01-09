@@ -49,5 +49,7 @@ configuration relevant for your application.
 The app skeleton uses a subset of [Foundation](http://foundation.zurb.com/) (v5) CSS
 framework by default. You can, however, replace it with any other library or
 custom styles.
-# Crud-Cake-PHP-User-Registration-and-Login
+![4](https://user-images.githubusercontent.com/29045747/72042236-09628e00-32d8-11ea-901f-344cda0db49c.PNG)
+![5](https://user-images.githubusercontent.com/29045747/72042232-08316100-32d8-11ea-9c3d-39b00d5a7501.PNG)
+
 
